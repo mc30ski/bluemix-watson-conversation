@@ -1,0 +1,25 @@
+{
+  "name": "bluemix-watson-conversation",
+  "version": "1.0.0",
+  "description": "Create a Watson Conversation Workspace given a CSV Corpus file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ibm.com:mwanders/bluemix-watson-conversation.git"
+  },
+  "keywords": [
+    "Bluemix",
+    "Watson",
+    "Conversation"
+  ],
+  "author": "Michael Wanderski",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^1.1.7",
+    "fs": "0.0.2",
+    "prompt": "^1.0.0"
+  }
+}
