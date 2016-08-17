@@ -1,7 +1,7 @@
 {
   "name": "bluemix-watson-conversation",
-  "version": "1.0.0",
-  "description": "Create a Watson Conversation Workspace given a CSV Corpus file.",
+  "version": "1.0.2",
+  "description": "Create an IBM Watson Conversation Workspace given a CSV Corpus file.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
